@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinking8&label=Profile%20views&color=0e75b6&style=flat-square" alt="sinking8" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Pytorch**
 
 - 📫 How to reach me **ashwinblaze111@gmail.com**
 
