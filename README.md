@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashwin Balasubramanian</h1>
-<h3 align="center">A passionate ML Researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinking8&label=Profile%20views&color=0e75b6&style=flat-square" alt="sinking8" /> </p>
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently working in GenAI Related Projects
 
-- 📫 How to reach me **ashwinblaze111@gmail.com**
+- 📫 How to reach me **ashwinba@usc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
