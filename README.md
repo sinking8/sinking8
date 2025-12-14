@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working in GenAI Related Projects
 
-- 📫 How to reach me **ashwinba@usc.edu**
+- 📫 How to reach me **ashwinblaze111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
